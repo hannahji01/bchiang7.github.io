@@ -1,44 +1,39 @@
-- company: Dropbox
+- company: Dropbox (Product Growth Team)
   url: https://www.dropbox.com/
-  time: May 2018 - Present
-  position: Engineer
+  time: June 2023 - Present
+  position: Data Science Intern
 
-- company: Scout
-  url: https://web.northeastern.edu/scout/
-  time: Jan - June 2018
-  position: Studio Developer
+- company: Yale Vision Lab
+  url: http://vision.cs.yale.edu/
+  time: January 2023 - Present
+  position: Researcher
 
-- company: Apple Music
-  url: https://www.apple.com/music/
-  time: July - Dec 2017
-  position: UI Engineer Co-op
+- company: Mayo Clinic (AI/ML Innovation Team)
+  url: https://www.mayoclinic.org/
+  time: May 2022 - May 2023
+  position: Machine Learning - Data Science Intern
 
-- company: Scout
-  url: https://web.northeastern.edu/scout/
-  time: Jan - June 2017
-  position: Studio Developer
+- company: Yale University - Department of Computer Science
+  url: https://www.yale.edu/
+  time: August - December 2022
+  position: Teaching Assistant for CS 483/583 - Deep Learning for Graph Structured Data
 
-- company: Starry
-  url: https://starry.com/
-  time: July - Dec 2016
-  position: Software Engineer Co-op
+- company: Federal Reserve Bank of Atlanta
+  url: https://www.atlantafed.org/
+  time: October 2021 - May 2022
+  position: Data Science Intern
 
-- company: Northeastern University
-  url: http://www.ccis.northeastern.edu/
-  time: Jan - May 2016
-  position: HCI Teaching Assistant
+- company: Yale Law School - Schell Center for International Human Rights
+  url: https://law.yale.edu/
+  time: October 2020 - December 2021
+  position: Research Assistant
 
-- company: NU Women in Tech
-  url: http://nuwit.ccs.neu.edu/
-  time: Jan 2016 - May 2017
-  position: President & Web Chair
+- company: Yale Economic Growth Center
+  url: https://egc.yale.edu/
+  time: June 2021 - August 2021
+  position: Herb Scarf Undergraduate Research Assistant
 
-- company: MullenLowe U.S.
-  url: https://us.mullenlowe.com/
-  time: July - Dec 2015
-  position: Creative Technologist Co-op
-
-- company: Northeastern University
-  url: http://www.ccis.northeastern.edu/
-  time: Mar - May 2015
-  position: HCI Research Assistant
+- company: Yale University - Department of Economics
+  url: https://www.yale.edu/
+  time: September 2020 - May 2021
+  position: Tobin Undergraduate Research Assistant
