@@ -6,7 +6,7 @@ languages:
   - item: HTML
   - item: CSS
 
-ML/CV:
+ml:
   - item: PyTorch
   - item: TensorFlow
   - item: OpenCV
@@ -23,7 +23,7 @@ NLP:
   - item: Gensim
   - item: AI Foundational Models
 
-data/tools:
+tools:
   - item: Git & Github
   - item: Azure DevOps
   - item: Google Cloud Platform
