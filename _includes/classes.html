@@ -1,20 +1,20 @@
-<section class="section classes">
+<section class="section skills">
     <div class="section__title">Coursework</div>
     <div class="section__content">
       <!-- <p>I’ve picked up quite a few skills during the course of my three co-ops, and aim to improve these skills everyday. Here are a few of the technologies that I have experience with:</p> -->
       <div class="skillz">
         <div class="skillz__category">
-          <div class="skillz__category__label">Machine Learning</div>
+          <div class="skillz__category__label">CS</div>
           <ul>
-            {% for language in site.data.skills.languages %}
+            {% for language in site.data.classes.cs %}
             <li class="skillz__category__item">{{language.item}}</li>
             {% endfor %}
           </ul>
         </div>
         <div class="skillz__category">
-          <div class="skillz__category__label">Computer Science</div>
+          <div class="skillz__category__label">ML</div>
           <ul>
-            {% for framework in site.data.skills.frameworks %}
+            {% for framework in site.data.classes.ml %}
             <li class="skillz__category__item">{{framework.item}}</li>
             {% endfor %}
           </ul>
@@ -22,19 +22,19 @@
         <div class="skillz__category">
           <div class="skillz__category__label">Math</div>
           <ul>
-            {% for tool in site.data.skills.tools %}
+            {% for tool in site.data.classes.math %}
             <li class="skillz__category__item">{{tool.item}}</li>
             {% endfor %}
           </ul>
         </div>
         <div class="skillz__category">
-            <div class="skillz__category__label">Economics</div>
-            <ul>
-              {% for tool in site.data.skills.tools %}
-              <li class="skillz__category__item">{{tool.item}}</li>
-              {% endfor %}
-            </ul>
-          </div>
+          <div class="skillz__category__label">Economics</div>
+          <ul>
+            {% for tool in site.data.classes.economics %}
+            <li class="skillz__category__item">{{tool.item}}</li>
+            {% endfor %}
+          </ul>
+        </div>
       </div>
     </div>
   </section>

@@ -1,26 +1,18 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Hannah Ji
+title: Hannah Ji | Machine Learning Engineer and Data Scientist
+description: Mathematically-oriented machine learning engineer and data scientist with a passion for solving real-world problems.
+url: https://hannahji01.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
+email: hannah.ji@yale.edu
 logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
-  - title: twitter
-    url: https://twitter.com/bchiang7
-  - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: mailto:hannah.ji@yale.edu
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/hannahji01
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/hannahji001/
 
 # Build settings
 markdown: kramdown

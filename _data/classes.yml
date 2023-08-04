@@ -1,0 +1,28 @@
+cs:
+  - item: Algorithms
+  - item: Data Structures and Programming Techniques
+  - item: Database Systems
+  - item: Intro to Computer Science
+
+ml:
+  - item: Machine Learning
+  - item: Deep Learning Theory and Applications
+  - item: Deep Learning on Graph Structured Data
+  - item: Computer Vision
+  - item: Natural Language Processing
+  - item: AI Foundational Models
+
+math:
+  - item: Linear Algebra
+  - item: Multivariate Calculus
+  - item: Discrete Mathematics
+  - item: Differential Equations
+  - item: Probability Theory and Statistics
+  - item: Analysis I & II
+
+economics:
+  - item: Microeconomic Theory
+  - item: Macroeconomic Theory
+  - item: General Equilibrium Theory
+  - item: Econometrics
+  - item: Political Economy of Development
