@@ -10,8 +10,10 @@ ml:
   - item: PyTorch
   - item: TensorFlow
   - item: OpenCV
-  - item: AI Foundational Models
   - item: Reinforcement Learning
+  - item: Semantic Segmentation
+  - item: Object Detection and Tracking
+  - item: AI Foundational Models
   - item: SciKit-Learn
   - item: SciKit-Image
   - item: NumPy
